@@ -6,17 +6,11 @@
 4. Open command prompt and locate **CRUD-reactjs**
 5. Run **node app**
 
-**OUTPUT**
-
 ![image](https://user-images.githubusercontent.com/44419783/54101609-85155500-43ff-11e9-8128-3739049f6973.png)
 
+**Output**
+
+![image](https://user-images.githubusercontent.com/44419783/54101630-a5ddaa80-43ff-11e9-84da-e2ea96aa8f09.png)
 
 
-
-
-
-
-
-
-
-Note: still on developement for user-interface
+Note: still on development for user-interface
