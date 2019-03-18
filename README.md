@@ -4,7 +4,7 @@
 2. Download Visual Studio Code here as your code editor https://code.visualstudio.com/
 3. Import the folder **CRUD-reactjs**
 4. Open command prompt and locate **CRUD-reactjs**
-5. Run **npm install** for creating node modules.
+5. Run **npm install** to install all the modules.
 5. Run **node app**
 6. Open your browser and type **localhost:3000**
 
