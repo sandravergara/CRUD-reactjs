@@ -15,4 +15,4 @@
 ![image](https://user-images.githubusercontent.com/44419783/54101630-a5ddaa80-43ff-11e9-84da-e2ea96aa8f09.png)
 
 
-Note: still on development for user-interface
+Note: still on development for user-interface and other features.
